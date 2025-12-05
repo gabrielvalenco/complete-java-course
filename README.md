@@ -45,19 +45,6 @@ By completing this course, I will:
 - ✅ Access relational databases with SQL commands (JDBC) and ORM (JPA/Hibernate)
 - ✅ Work with NoSQL databases
 
-## Repository Structure
-/
-├── basics/ # Basic Java syntax and fundamentals
-├── oop/ # Object-Oriented Programming concepts
-├── data-structures/ # Arrays, collections, and data structures
-├── advanced/ # Generics, lambdas, streams
-├── jdbc/ # Database access with JDBC
-├── javafx/ # GUI applications
-├── spring-boot/ # Spring Boot projects
-├── jpa-hibernate/ # ORM projects
-└── exercises/ # Practice exercises and solutions
-
-
 ## Technologies
 
 - Java (LTS version)
