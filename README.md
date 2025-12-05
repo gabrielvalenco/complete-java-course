@@ -46,4 +46,34 @@ By completing this course, I will:
 - ✅ Work with NoSQL databases
 
 ## Repository Structure
+/
+├── basics/ # Basic Java syntax and fundamentals
+├── oop/ # Object-Oriented Programming concepts
+├── data-structures/ # Arrays, collections, and data structures
+├── advanced/ # Generics, lambdas, streams
+├── jdbc/ # Database access with JDBC
+├── javafx/ # GUI applications
+├── spring-boot/ # Spring Boot projects
+├── jpa-hibernate/ # ORM projects
+└── exercises/ # Practice exercises and solutions
+
+
+## Technologies
+
+- Java (LTS version)
+- Spring Boot
+- JavaFX
+- Maven
+- JPA/Hibernate
+- Spring Data JPA
+- Spring Data MongoDB
+- Git/GitHub
+
+## About
+
+This repository documents my learning journey through a professional Java programming course with over 20 years of industry expertise built into the curriculum. Each section includes video lessons, supporting materials, resolved exercises, proposed exercises with corrections, and UML design diagrams.
+
+---
+
+**Note:** This is a learning repository that tracks my progress through the complete Java programming course. Projects and code will be continuously updated as I advance through the curriculum.
 
