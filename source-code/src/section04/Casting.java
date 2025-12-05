@@ -1,5 +1,5 @@
-package session_four;
-public class casting {
+package section04;
+public class Casting {
     public static void main (String[] args) {
         // Variable Casting
         int a, b;

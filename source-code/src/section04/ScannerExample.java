@@ -1,9 +1,9 @@
-package session_four;
+package section04;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class scanner {
+public class ScannerExample {
 
     // Read a Single Word
     public static void main (String[] args) {

@@ -1,7 +1,7 @@
-package session_four;
+package section04;
 import java.util.Locale;
 
-public class exercise {
+public class Exercise00 {
     public static void main (String[] args) {
         String product1 = "Computer";
         String product2 = "Office Desk";

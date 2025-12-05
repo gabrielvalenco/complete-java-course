@@ -1,6 +1,6 @@
-package session_four;
+package section04;
 
-public class math {
+public class MathExample {
     public static void main (String[] args) {
         
         double x = 3.0;

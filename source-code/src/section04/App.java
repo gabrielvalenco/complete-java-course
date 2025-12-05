@@ -1,4 +1,4 @@
-package session_four;
+package section04;
 import java.util.Locale;
 
 public class App {
