@@ -1,6 +1,7 @@
+package session_four;
 public class casting {
     public static void main (String[] args) {
-        // Casting de Variáveis
+        // Variable Casting
         int a, b;
         double result;
 
@@ -8,7 +9,7 @@ public class casting {
         b = 2;
 
         result = (double) a/b;
-        System.out.printf ("O resultado de: " + a + " Dividido por " + b + " é igual a: %.1f%n", result);
+        System.out.printf("The result of: " + a + " divided by " + b + " is equal to: %.1f%n", result);
 
         double c;
         int d;
