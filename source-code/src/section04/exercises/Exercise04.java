@@ -22,5 +22,6 @@ public class Exercise04 {
         System.out.println ("User ID: " + userID);
         System.out.printf ("Salary per hour: " + salaryPerHour);
 
+        sc.close();
     }
 }

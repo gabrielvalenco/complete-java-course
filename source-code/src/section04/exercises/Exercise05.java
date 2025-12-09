@@ -15,19 +15,19 @@ public class Exercise05 {
 
         Scanner sc = new Scanner(System.in);
 
-        int code1, quantity1;
+        int quantity1;
         double price1;
 
-        int code2, quantity2;
+        int quantity2;
         double price2;
 
         System.out.println("Enter product 1 details (Code Quantity Price):");
-        code1 = sc.nextInt();
+        sc.nextInt();
         quantity1 = sc.nextInt();
         price1 = sc.nextDouble();
 
         System.out.println("Enter product 2 details (Code Quantity Price):");
-        code2 = sc.nextInt();
+        sc.nextInt();
         quantity2 = sc.nextInt();
         price2 = sc.nextDouble();
 
